@@ -1,0 +1,17 @@
+.tableCSS table, tr, td
+{
+    border: 1px solid;
+    border-color: indianred;
+}
+
+.backgroundColortd td
+{
+    background-color: red;
+}
+
+td.textColor
+{
+    color:red;
+}
+
+

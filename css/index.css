@@ -1,0 +1,92 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body
+{
+    background-color: #f2f2f2;
+}
+
+
+
+.firstParallaxBox
+{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+}
+
+.firstInnerBox
+{   
+    background-image: url("../images/david.png");
+    background-size: 23%;
+    background-position: 20px -100px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 10% 0;
+}
+
+.secondParallaxBox
+{
+    background-image: url("../images/dja\ poster.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.secondInnerBox
+{   
+    padding: 15% 0;
+    margin: 0px 50px 40px
+}
+
+h2
+{
+    font-size: 32px;
+    text-align: center;
+    margin: 20px 0 10px;
+}
+
+h1
+{
+    font-size: 90px;
+    text-align: center;
+}
+
+p
+{
+    font-size: 16px;
+    color: #555;
+    text-align: justify;
+    line-height: 30px;
+    margin: 0px 50px 40px
+}
+
+.exercises p
+{
+    text-align: center;
+}
+
+a:link
+{
+    color: #49243E;
+}
+  
+a:visited
+{
+    color: #704264;
+}
+  
+  a:hover 
+{
+    color: #BB8493;
+}
+  
+  a:active 
+{
+    color: #DBAFA0;
+}

@@ -1,0 +1,118 @@
+.outerBox
+{
+    border: 5px solid;
+    border-color: gray;
+    height: 800px;
+    width: 1800px;
+}
+
+.firstBox
+{
+    border: 10px solid;
+    border-color: #f0e68c;
+    background-color: #6b8e23;
+    border-radius: 10px;
+    height: 450px;
+    width: 450px;
+    margin: 20px;
+    float: left;
+
+}
+
+.secondBox
+{
+    border: 10px solid;
+    border-color: #f0e68c;
+    background-color: #4169e1;
+    border-radius: 10px;
+    height: 450px;
+    width: 450px;
+    margin: 20px;
+    float: left;
+}
+
+.thirdBox
+{
+    border: 10px solid;
+    border-color: #f0e68c;
+    border-radius: 10px;
+    height: 450px;
+    width: 450px;
+    margin: 20px;
+    float: left;
+}
+
+.firstText
+{
+    margin-top: 50px;
+    margin-left: 30px;
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+}
+
+.firstBoxText
+{
+    font-size: 21px;
+    color: black;
+    height: 275px;
+    width: 275px;
+    background-color: #98c1d9;
+    margin-top: 20px;
+}
+
+.secondText
+{
+    margin-top: 50px;
+    margin-left: 30px;
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 25px;
+}
+
+.secondTextBox
+{
+    font-size: 21px;
+    color: black;
+    height: 275px;
+    width: 275px;
+    background-color: #ee6c4d;
+    margin-top: 20px;
+    overflow: scroll;
+}
+
+.thirdBoxCircle
+{
+    height: 45px;
+    width: 300px;
+    border: 5px solid;
+    border-color: #f0e68c;
+    background-color: orangered;
+    margin-top: 20px;
+    margin-left: 70px;
+    border-radius: 30px;
+}
+
+.thirdBoxCircleText
+{
+    text-align: center;
+    margin-top: 12px;
+    text-decoration: underline;
+    
+}
+a:link
+{
+    color:blueviolet;
+}
+a:hover
+{
+    color:green;
+}  
+a:active
+{
+    color:blue;
+}
+a:visited
+{
+    color:orange;
+}
